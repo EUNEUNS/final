@@ -5,3 +5,5 @@
 어떻게 시작하냐구요? 그냥 컴퓨터나 노트북 usb포트에 꽂아주시기만 하면 됩니다.
 
 추가적인 정보는 https://github.com/mame82/P4wnP1 여기서 찾으시면 되겠습니다 😊
+
+https://drive.google.com/open?id=1NFZOGZnSZLXYINApg4UA84pGjFcjRVof
